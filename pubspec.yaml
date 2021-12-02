@@ -30,6 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
   beacons_plugin: ^2.0.1
+  beacon_broadcast: ^0.3.0
 
 
   # The following adds the Cupertino Icons font to your application.

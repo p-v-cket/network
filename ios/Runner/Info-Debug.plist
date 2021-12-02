@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>networking between two apps - entering access</string>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>Exchange data with nearby devices running the Yourapp.</string>
 	<key>NSBonjourServices</key>
