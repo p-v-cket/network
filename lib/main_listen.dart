@@ -77,7 +77,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
     BeaconsPlugin.listenToBeacons(beaconEventsController);
 
     await BeaconsPlugin.addRegion(
-        "BeaconType1", "9BE68300-8F78-6C52-79C4-E18822C0557D");
+        "com.example.myDeviceRegion", "39ED98FF-2900-441A-802F-9C398FC199D2");
     await BeaconsPlugin.addRegion(
         "BeaconType2", "6a84c716-0f2a-1ce9-f210-6a63bd873dd9");
 
